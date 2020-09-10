@@ -3,7 +3,7 @@ A simple neat log system written in C with ASCII colors
 ![Screen](https://github.com/llchris/Log/blob/master/img/console.PNG)
 # Example Code
 ```
-#include "core/log.h"
+#include "log.h"
 
 int main(void) {
 	LogRename("MyEpicLogger");
