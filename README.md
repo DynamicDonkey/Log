@@ -1,6 +1,6 @@
 # Log
 A simple neat log system written in C with ASCII colors
-![Screen](https://github.com/llchris/Log/blob/master/img/console.PNG)
+![Screen](https://github.com/DynamicDonkey/Log/blob/master/img/console.PNG)
 # Example Code
 ```
 #include "log.h"
@@ -35,7 +35,7 @@ int main(void) {
 }
 ```
 # What gets written into the file
-![Screen](https://github.com/llchris/Log/blob/master/img/file.PNG)
+![Screen](https://github.com/DynamicDonkey/Log/blob/master/img/file.PNG)
 # Macros
 The log system detects debug mode if one of those macros is defined: ```_DEBUG``` ```DEBUG``` ```BUILD_DEBUG```
 You can also define ```LOG_NO_COLORS``` if you dont want the ASCII colors
